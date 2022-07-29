@@ -21,7 +21,7 @@ const EventViewList: FunctionComponent<EventViewListProps> = ({ title }) => {
   const categories = [
     { title: '공연', category: 'concert' },
     { title: '연극', category: 'theater' },
-    { title: '유아/어린이', category: 'kid' },
+    { title: '유아/어린이', category: 'kids' },
     { title: '뮤지컬', category: 'musical' },
     { title: '전시회', category: 'exhibition' },
     { title: '레저스포츠', category: 'leisure sport' },
